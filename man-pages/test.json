@@ -10,5 +10,6 @@
     "vmr-ci" // man page not installed
   ],
   "ignoredRIDs":[
+    "ubuntu"
   ]
 }
