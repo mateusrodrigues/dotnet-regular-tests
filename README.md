@@ -21,7 +21,7 @@ babeltrace bash bash-completion binutils coreutils file findutils g++ jq libstdc
 ```
 babeltrace bash-completion bc findutils gcc-c++ jq libstdc++-devel lttng-ust lttng-tools npm postgresql-odbc postgresql-server strace unixODBC /usr/bin/file /usr/bin/free /usr/bin/lldb /usr/bin/readelf /usr/bin/su which zlib-devel
 ```
-#### Ubuntu
+#### Ubuntu (WIP)
 ```
-TBD
+postgresql-16 odbc-postgresql unixodbc
 ```
